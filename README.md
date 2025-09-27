@@ -45,8 +45,5 @@ Start the server
 
 
 ## Authors
-
-- [@tanushchauhan](https://www.github.com/tanushchauhan)
-- [@myaltaccountsthis](https://github.com/myaltaccountsthis)
 - [@saadhya0102](https://github.com/saadhya0102)
 

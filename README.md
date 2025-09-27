@@ -6,6 +6,13 @@
 
 A financial solution optimized for purely digital usage with minimal hassle
 
+# Features
+
+Digital Wallet - Securely stores financial information for users.
+
+QR Code Based Transactions - Generates QR codes that allow for efficient transfer of money between accounts. Funds can also be transferred through account numbers, but this makes it more convinient.
+
+Check Scanner - Parses in an image of a check and uses AI to convert it into a readable format. It then processes this and initiates the transfer in funds.
 
 
 
